@@ -214,7 +214,7 @@ p.note { display: none; }
 <h2><span class="yellow">作物はこちら</span></h2>
 <a href="20260907_00020.jpeg" target="_blank"><img src="20260907_00020.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">畑の横でアマチュア無線<br>交信相手はJS1BRX、電波を飛ばした基地局は宇都宮のJM1XHB、交信に使ったRoomはALLJA-CQ-ROOM-D<br>電波がデジタル化して弱い電波で遠くの局とお話しできるようになりました。操作はかなり複雑ですが・・・。</span></h2>
+<h2><span class="yellow">畑の横でアマチュア無線<br>交信相手はJS1BRX、電波を飛ばした基地局は宇都宮のJM1XHB、交信に使ったRoomはALLJA-CQ-ROOM-D<br>電波がデジタル化して弱い電波で遠くの局とお話しできるようになりました。<br>操作はかなり複雑ですが・・・。</span></h2>
 <a href="20260907_00021.jpeg" target="_blank"><img src="20260907_00021.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260907_00022.jpeg" target="_blank"><img src="20260907_00022.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
